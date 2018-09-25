@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'iransans';
+	src: url('BRoya.eot');
+	src: url('BRoya.eot?#iefix') format('embedded-opentype'),
+		url('BRoya.woff') format('woff'),
+		url('BRoya.ttf') format('truetype'),
+		url('BRoya.svg') format('svg');
+}

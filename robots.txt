@@ -1,0 +1,5 @@
+User-Agent:*
+Disallow:/burgers/
+Allow:/burgers/chedar-blt-burger.html
+User-Agent:Mediapartners-Google
+Allow:/burgers/
